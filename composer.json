@@ -1,9 +1,9 @@
 {
-  "name": "clsystems/sas-api-client",
+  "name": "ooglek/shareasale-merchant-api-sdk",
   "type": "library",
-  "description": "Share-A-Sale API library",
+  "description": "Share-A-Sale Merchant API library",
   "keywords": [
-    "clsystems",
+    "ooglek",
     "affiliate",
     "shareasale",
     "api",
@@ -12,12 +12,12 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Jeroen Guyt - CLSystems",
-      "email": "info@clsystems.nl"
+      "name": "Peter Beckman",
+      "email": "beckman@angryox.com"
     }
   ],
   "autoload": {
-    "psr-0": { "CLSystems\\ShareASale\\": "src/" }
+    "psr-0": { "ooglek\\ShareASale\\": "src/" }
   },
   "require": {
     "php": ">=7.3",
