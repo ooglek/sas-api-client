@@ -1,4 +1,4 @@
-sas-api-client
+ShareASale Merchant API PHP SDK Client
 ==================
 
 A PHP SDK for the **Share-A-Sale Merchant API**
